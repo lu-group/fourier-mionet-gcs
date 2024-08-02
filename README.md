@@ -18,6 +18,7 @@ If you use this data or code for academic research, you are encouraged to cite t
   title   = {{Fourier-MIONet}: Fourier-enhanced multiple-input neural operators for multiphase modeling of geological carbon sequestration},
   author  = {Jiang, Zhongyi and Zhu, Min and Lu, Lu},
   journal = {Reliability Engineering & System Safety},
+  volume  = {251},
   pages   = {110392},
   year    = {2024},
   doi     = {https://doi.org/10.1016/j.ress.2024.110392}
