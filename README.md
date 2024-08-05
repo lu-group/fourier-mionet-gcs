@@ -5,7 +5,7 @@
 The data and code for the paper [Z. Jiang, M. Zhu, & L. Lu. Fourier-MIONet: Fourier-enhanced multiple-input neural operators for multiphase modeling of geological carbon sequestration. *Reliability Engineering & System Safety*, 251, 110392, 2024.](https://doi.org/10.1016/j.ress.2024.110392)
 
 ## Data
-Download data from [google drive](https://drive.google.com/drive/folders/1OJruFzi2dO8Xwo7XrS_zAhmsGFJQ-imL?usp=sharing)
+Download data from [OneDrive](https://yaleedu-my.sharepoint.com/:f:/g/personal/lu_lu_yale_edu/EvWUGDhKje1MsNAtatoxCHsB6qYDyNTpWxDhz_Kf_N7i-Q?e=r5bTz2)
 
 ## Code
 Note: When you run the codes, please use the modified deepxde under the directory of corresponding python file. The codes cannot run under the public version of deepxde.
