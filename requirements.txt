@@ -1,0 +1,14 @@
+deepxde
+matplotlib
+numpy
+os
+pandas
+sklearn
+torch
+time
+
+
+
+
+
+
